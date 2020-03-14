@@ -5,4 +5,3 @@ Included:
 FOSuser bundle
 Bootstrap 4
 Jquery
-# symfony-with-bootstrap-and-jquery
